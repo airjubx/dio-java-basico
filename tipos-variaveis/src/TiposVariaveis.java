@@ -1,5 +1,5 @@
 public class TiposVariaveis {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         byte idade = 20; // 8 bits
         short ano = 2023; // 16 bits
         int cep = 12345678; // 32 bits
